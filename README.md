@@ -11,3 +11,6 @@ overview: https://baike.baidu.com/item/Netty/10061624?fr=aladdin
 compared to Tomcat: tomcat only supports http, netty mutliple protocols
 
 ### how does spring support network protocols? only http or some way else?
+
+### scheduling 
+netty.util.wheeltimer: https://blog.csdn.net/daobuxinzi/article/details/122709545
