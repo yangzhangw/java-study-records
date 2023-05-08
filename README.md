@@ -20,3 +20,6 @@ quick tutorial: http://c.biancheng.net/springcloud/
 
 ### log framework for java
 slf4j/ concrete implements: https://www.cnblogs.com/hanszhao/p/9754419.html
+
+### http utils 4 java
+https://blog.csdn.net/qq_20957669/article/details/122489901
