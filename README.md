@@ -19,7 +19,8 @@ netty.util.wheeltimer: https://blog.csdn.net/daobuxinzi/article/details/12270954
 quick tutorial: http://c.biancheng.net/springcloud/
 
 ### log framework for java
-slf4j/ concrete implements: https://www.cnblogs.com/hanszhao/p/9754419.html
+slf4j/ concrete implements: https://www.cnblogs.com/hanszhao/p/9754419.html  
+springboot logging config tutorial: https://blog.csdn.net/qq_24692021/article/details/121261401
 
 ### http utils 4 java
 https://blog.csdn.net/qq_20957669/article/details/122489901
