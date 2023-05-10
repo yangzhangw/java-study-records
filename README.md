@@ -17,6 +17,7 @@ netty.util.wheeltimer: https://blog.csdn.net/daobuxinzi/article/details/12270954
 
 ### spring cloud
 quick tutorial: http://c.biancheng.net/springcloud/
+hystrix client fallback not work!!!!
 
 ### log framework for java
 slf4j/ concrete implements: https://www.cnblogs.com/hanszhao/p/9754419.html  
