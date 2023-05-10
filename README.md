@@ -16,7 +16,7 @@ compared to Tomcat: tomcat only supports http, netty mutliple protocols
 netty.util.wheeltimer: https://blog.csdn.net/daobuxinzi/article/details/122709545
 
 ### spring cloud
-quick tutorial: http://c.biancheng.net/springcloud/
+quick tutorial: http://c.biancheng.net/springcloud/  
 hystrix client fallback not work!!!!
 
 ### log framework for java
