@@ -26,3 +26,6 @@ springboot logging config tutorial: https://blog.csdn.net/qq_24692021/article/de
 
 ### http utils 4 java
 https://blog.csdn.net/qq_20957669/article/details/122489901
+
+### nginx
+centos: https://mp.weixin.qq.com/s?__biz=MzU0OTE4MzYzMw==&mid=2247516769&idx=3&sn=2c9b6a79c8bd1476d99057caedb1875d&chksm=fbb10b9fccc682899bc443838d327796d909e217a21ba36d5853a31078e6bf81ccc47fc9bf89&scene=27
