@@ -17,7 +17,7 @@ netty.util.wheeltimer: https://blog.csdn.net/daobuxinzi/article/details/12270954
 
 ### spring cloud
 quick tutorial: http://c.biancheng.net/springcloud/  
-hystrix client fallback not work!!!!
+hystrix client fallback not work!!!!  
 spring cloud config to continue!!!!
 
 ### log framework for java
@@ -28,4 +28,5 @@ springboot logging config tutorial: https://blog.csdn.net/qq_24692021/article/de
 https://blog.csdn.net/qq_20957669/article/details/122489901
 
 ### nginx
-centos: https://mp.weixin.qq.com/s?__biz=MzU0OTE4MzYzMw==&mid=2247516769&idx=3&sn=2c9b6a79c8bd1476d99057caedb1875d&chksm=fbb10b9fccc682899bc443838d327796d909e217a21ba36d5853a31078e6bf81ccc47fc9bf89&scene=27
+centos: https://mp.weixin.qq.com/s?__biz=MzU0OTE4MzYzMw==&mid=2247516769&idx=3&sn=2c9b6a79c8bd1476d99057caedb1875d&chksm=fbb10b9fccc682899bc443838d327796d909e217a21ba36d5853a31078e6bf81ccc47fc9bf89&scene=27  
+location config: https://blog.csdn.net/qq_40907977/article/details/106815216
