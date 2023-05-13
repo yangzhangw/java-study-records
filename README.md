@@ -33,3 +33,6 @@ location config: https://blog.csdn.net/qq_40907977/article/details/106815216
 
 ### docker
 ubuntu: https://www.runoob.com/docker/docker-tutorial.html
+
+### groovy & gradle:
+simple tutorial: https://blog.csdn.net/weixin_43195884/article/details/128129630
