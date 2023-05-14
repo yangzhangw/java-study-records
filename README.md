@@ -35,4 +35,5 @@ location config: https://blog.csdn.net/qq_40907977/article/details/106815216
 ubuntu: https://www.runoob.com/docker/docker-tutorial.html
 
 ### groovy & gradle:
-simple tutorial: https://blog.csdn.net/weixin_43195884/article/details/128129630
+simple tutorial: https://blog.csdn.net/weixin_43195884/article/details/128129630  
+details about lifecycle of gradle build procedure: https://blog.csdn.net/u012165769/article/details/119250656?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_utm_term~default-0-119250656-blog-110491824.235^v35^pc_relevant_anti_vip_base&spm=1001.2101.3001.4242.1&utm_relevant_index=3
