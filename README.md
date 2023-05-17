@@ -41,3 +41,6 @@ gradle java plugin, default tasks and sourceset: https://blog.csdn.net/qq_368381
 
 ### data boom in a single table:  
 tips: https://blog.csdn.net/woshixuye/article/details/111408546  
+
+### postgresql:  
+pg_dump/ psql for bakeup: https://www.cnblogs.com/nhdlb/p/14960000.html
